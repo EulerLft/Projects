@@ -4,3 +4,5 @@ World Bank to try and identify the relationship between the GDP and life expecta
 We will use a combination of Matplotlib and eaborn to create visualizations. 
 
 We will attempt to preprocess, explore and analyze data. 
+
+untitled.ipynb - contains test scripts used for analysis. 
