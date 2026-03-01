@@ -1,0 +1,25 @@
+Project Next Steps 
+
+Has life expectancy increased over time in the six nations?
+Has GDP increased over time in the six nations?
+Is there a correlation between GDP and life expectancy of a country?
+What is the average life expectancy in these nations?
+What is the distribution of that life expectancy?
+
+What did you learn throughout the process?
+Are the results what you expected?
+What are the key findings and takeaways? 
+
+Your blog post should include the following:
+
+A compelling title about your findings
+An introduction to the data research
+A section sharing the background info (definition of GDP for example) and sources for your data as well as any further research you conducted
+An accompanying paragraph describing the following visualizations
+A conclusion touching on the limitations of the data and further research
+Visualizations that can be included:
+
+The violin plot of the life expectancy distribution by country
+The facet grid of scatter graphs mapping GDP as a function of Life Expectancy by country
+The facet grid of line graphs mapping GDP by country
+The facet grid of line graphs mapping Life Expectancy by

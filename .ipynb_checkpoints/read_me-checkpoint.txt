@@ -1,3 +1,6 @@
-This project explores the relationship between Gross Domestic Product (GDP) and life expectancy at birth across six different nations between 2000 and 2015. The analysis uses data for Chile, China, Germany, Mexico, the United States of America, and Zimbabwe to identify economic trends and health outcomes over time.
+This project explores the relationship between Gross Domestic Product (GDP) and life expectancy at birth across six different nations between 2000 and 2015. 
+The analysis uses data for Chile, China, Germany, Mexico, the United States of America, and Zimbabwe to identify economic trends and health outcomes over time.
 
-The code implements data processing and visualization using Python libraries such as Pandas, Matplotlib, and Seaborn. Key features of the script include grouping data by country to calculate average life expectancy and GDP, as well as generating scatter plots and bar charts to compare these metrics across regions. Additionally, the project includes custom axis formatting logic to handle large GDP values, converting them into readable "Billion" or "Trillion" labels for clearer data presentation.
+The code implements data processing and visualization using Python libraries such as Pandas, Matplotlib, and Seaborn. 
+Key features of the script include grouping data by country to calculate average life expectancy and GDP, as well as generating scatter plots and bar charts to compare these metrics across regions. 
+Additionally, the project includes custom axis formatting logic to handle large GDP values, converting them into readable "Billion" or "Trillion" labels for clearer data presentation.
